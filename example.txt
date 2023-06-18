@@ -1,0 +1,6 @@
+Pelicula,1,Minecraft La Pelicula,175,Drama,1
+Serie,1,Team Fortress 2,22,Comedy,3
+Pelicula,2,Terraria,202,Action,4
+Serie,2,Bob Esponja,22,Comedy,3
+Episodio,4,Bob Esponja,20,Comedy,3,Neptuno,2,3
+Episodio,5,Bob Esponja,20,Comedy,3,Neptunooo,2,3

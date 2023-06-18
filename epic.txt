@@ -1,0 +1,48 @@
+## Pelicula
+Id: 1
+Title: Saikyou
+Duration: 175
+Genre: Drama
+Rating: 1
+
+## Serie
+Id: 1
+Title: Pocoyo
+Duration: 22
+Genre: Comedy
+Rating: 3
+
+## Pelicula
+Id: 2
+Title: Two Batmans
+Duration: 202
+Genre: Action
+Rating: 100
+
+## Serie
+Id: 2
+Title: Elmo y Sus Amigos
+Duration: 22
+Genre: Comedy
+Rating: 3
+
+## Episodio
+Id: 1
+Serie Title: The Office
+Season: 1
+Episode Title: Episode 1
+Episode Rating: 4
+
+## Episodio
+Id: 2
+Serie Title: The Cool Office
+Season: 1
+Episode Title: Episode 2
+Episode Rating: 10
+
+## Episodio
+Id: 3
+Serie Title: The Cool Office
+Season: 1
+Episode Title: Episode 3
+Episode Rating: 10
