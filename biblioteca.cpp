@@ -6,6 +6,7 @@
 #include <fstream>
 #include <iostream>
 #include <sstream>
+#include <limits>
 
 Biblioteca::Biblioteca()
 {
